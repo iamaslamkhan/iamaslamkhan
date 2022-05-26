@@ -24,7 +24,7 @@
 <a href="https://instagram.com/aslamkhan_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aslamkhan_17" height="30" width="40" /></a>
 <a href="https://medium.com/@aslamasgarkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aslamasgarkhan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aslamkhan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aslamkhan05" height="30" width="40" /></a>
-<a href="/https://dashboard.rss.com/aslamasgarkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="aslamasgarkhan" height="30" width="40" /></a>
+<a href="/https://dashboard.rss.com/aslamasgarkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="/https://dashboard.rss.com/aslamasgarkhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
