@@ -1,19 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aslam Khan</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aslam Asgar Khan</h1>
+<h3 align="center">A passionate Developer with a background in Information Science Engineering from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaslamkhan&label=Profile%20views&color=0e75b6&style=flat" alt="iamaslamkhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamaslamkhan" alt="iamaslamkhan" /></a> </p>
+- 🌱 I’m currently learning **Data Structures and Algorithms, Data Analysis**
 
-<p align="left"> <a href="https://twitter.com/aslamkhan_17" target="blank"><img src="https://img.shields.io/twitter/follow/aslamkhan_17?logo=twitter&style=for-the-badge" alt="aslamkhan_17" /></a> </p>
-
-- 📫 How to reach me **Aslamasgarkhan@gmail.com**
-
-- ⚡ Fun fact **“I've been making a list of the things they don't teach you at school"**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **aslamasgarkhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
