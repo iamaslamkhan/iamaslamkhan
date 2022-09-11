@@ -7,6 +7,14 @@
 
 - 📫 How to reach me **aslamasgarkhan@gmail.com**
 
+- 🌱 Learning Never Stops 🚀
+
+- 💬 Ask me about **Web Development, Java, DBMS, MySQL**
+
+- 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.netlify.app/" target="_blank">Portfolio</a>**
+
+- 😄 Pronouns: He/His
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/iamaslamkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iamaslamkhan" height="30" width="40" /></a>
