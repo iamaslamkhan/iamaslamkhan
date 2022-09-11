@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaslamkhan&label=Profile%20views&color=0e75b6&style=flat" alt="iamaslamkhan" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Data Analysis**
-
-- 📫 How to reach me **aslamasgarkhan@gmail.com**
-
 - 🌱 Learning Never Stops 🚀
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.netlify.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://aslamkhan.netlify.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
